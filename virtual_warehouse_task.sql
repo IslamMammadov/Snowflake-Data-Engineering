@@ -26,3 +26,5 @@ SHOW WAREHOUSES;
 Use the “ALTER WAREHOUSE” command and “SET auto_suspend” to set the warehouse_one auto-suspend parameter to two minutes.
 Then use SHOW WAREHOUSES. What is the number in the “auto_suspend” column in the warehouse_one row?
 */
+ALTER WAREHOUSE warehouse_one SET AUTO_SUSPEND = 120;
+SHOW WAREHOUSES;
