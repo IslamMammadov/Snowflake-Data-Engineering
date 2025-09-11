@@ -7,8 +7,7 @@
 4) Implement DevOps and observability best practices for data pipelines
 
 ### Skills I'll use and gain
-<kbd>Database Management</kbd> <kbd>Data Import/Export</kbd> <kbd>Databases</kbd> <kbd>Data Presentation</kbd>  
-<kbd>Data Integration</kbd> <kbd>Data Analysis</kbd> <kbd>DevOps</kbd> <kbd>SQL</kbd>  
+<kbd>Database Management</kbd> <kbd>Data Import/Export</kbd> <kbd>Databases</kbd> <kbd>Data Presentation</kbd> <kbd>Data Integration</kbd> <kbd>Data Analysis</kbd> <kbd>DevOps</kbd> <kbd>SQL</kbd>  
 <kbd>Extract, Transform, Load</kbd> <kbd>Data Pipelines</kbd> <kbd>Data Manipulation</kbd> <kbd>Data Engineering</kbd>  
 
 ### Tools I'll learn
