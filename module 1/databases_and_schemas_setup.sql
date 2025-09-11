@@ -4,7 +4,8 @@ SELECT * FROM RAW_POS.MENU;
 SELECT * FROM TASTY_BYTES.INFORMATION_SCHEMA.TABLES;
 
 ---> create a test database
-CREATE DATABASE test_database;
+CREATE DATABASE test_database
+COMMENT  = 'Islam created a test database for learning purposes';
 
 SHOW DATABASES;
 
@@ -20,7 +21,8 @@ SHOW DATABASES;
 USE DATABASE test_database;
 
 ---> create a schema
-CREATE SCHEMA test_schema;
+CREATE SCHEMA test_schema
+COMMENT = ' Created for a test purpose by Islam';
 
 SHOW SCHEMAS;
 
@@ -36,4 +38,3 @@ SHOW SCHEMAS;
 UNDROP SCHEMA test_schema;
 
 SHOW SCHEMAS;
-
