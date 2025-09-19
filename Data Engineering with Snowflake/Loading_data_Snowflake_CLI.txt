@@ -1,0 +1,16 @@
+-- Get config file from CLI
+code~/.snowflake/config.toml
+
+--Enter valid info into config yaml file
+
+default_connection_name = "data_engineering_with_Snowflake"
+
+[connections.data_engineering_with_Snowflake]
+account ="NNYRFDD-QLB66866"
+user = "MISLAM"
+password = "passwrod"
+warehouse = "COMPUTE_WH"
+database = "TEST"
+schema = "PUBLIC"
+role = "ACCOUNTADMIN"
+
